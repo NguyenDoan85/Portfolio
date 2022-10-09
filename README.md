@@ -22,6 +22,7 @@
 ## Table of Contents
 
 - [Description](#description-🔍)
+- [Deloyed Link](#deloyed-link-🔗)
 - [User Story](#user-story-💡)
 - [Acceptance Criteria](#acceptance-criteria-🎯)
 - [Installation](#installation-💾)
@@ -37,7 +38,7 @@
 
 - A Porfolio apps using REACT.
 
-## Deloyed link 
+## Deloyed link 🔗
 - https://nguyendoan85.github.io/Portfolio/
 
 ## User Story 💡
